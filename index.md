@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Fundación San Vicente Pallotti
+landing-title: 'Fundación San Vicente Pallotti'
 description: null
 image: null
 author: null
