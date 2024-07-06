@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Fundación San Vicente Pallotti'
 description: null
-image: [null](https://fundacionsanvicentepallotti.github.io/images/banner.png)
+image: null
 author: null
 show_tile: false
 ---
