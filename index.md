@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-La Unión del Apostolado Católico es un grupo de Sacerdotes y Laicos con la misión de reavivar la fe, llevando a todo los a la unidad en Cristo a través del ejemplo de su Padre fundador San Vicente Pallotti.
+FUNDACIÓN SAN VICENTE PALLOTTI ES UNA INSTITUCIÓN DE AYUDA A LA COMUNIDAD MÁS NECESITADA, DONDE SE IMPARTE EL AMOR AL PRÓJIMO CON MORAL CRISTIANA Y CATÓLICA.
