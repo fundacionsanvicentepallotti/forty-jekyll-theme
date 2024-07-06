@@ -3,9 +3,9 @@ layout: home
 title: Home
 landing-title: 'Fundación San Vicente Pallotti'
 description: null
-image: null
+image: [null](https://fundacionsanvicentepallotti.github.io/images/banner.png)
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+La Unión del Apostolado Católico es un grupo de Sacerdotes y Laicos con la misión de reavivar la fe, llevando a todo los a la unidad en Cristo a través del ejemplo de su Padre fundador San Vicente Pallotti.
