@@ -6,7 +6,7 @@ description: Fundación San vicente pallotti es na institución de ayuda para la
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: Av. Las Aves con Av. Los Roques, Casa Iglesia Asunción de María, Urb Las Islas (Villa Panamericana). Guarenas, Edo. Miranda.
+street_address: Avenida. Las Aves con Av. Los Roques, Casa Iglesia Asunción de María, Urb Las Islas (Villa Panamericana). Guarenas, Edo. Miranda.
 city: GUARENAS
 state: Miranda
 zip_code: 1220
