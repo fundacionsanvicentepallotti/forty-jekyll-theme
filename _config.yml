@@ -1,17 +1,17 @@
 # site settings
 title: Fundación
 subtitle:  SAN VICENTE PALLOTTI
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+email: fundacionsanvicentepallotti52@gmail.com
+description: Fundación San vicente pallotti es na institución de ayuda para la comunidad mas necesitada, donde se imparte el amor al rojimo con moral cristiana y católca
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
+street_address: Av. Las Aves con Av. Los Roques, Casa Iglesia Asunción de María, Urb Las Islas (Villa Panamericana). Guarenas, Edo. Miranda.
 city: GUARENAS
-state: TN
-zip_code: 55555
-country: venezuela
-phone: (716) 555-5555
+state: Miranda
+zip_code: 1220
+country: Venezuela
+phone: (+58) 412 905 98 17
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,13 +22,13 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://fundacionsanvicentepallotti.github.io/
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
+  Google-Plus: 
+  Instagram: https://www.instagram.com/fundacionsanvicentepallotti/?hl=es
+  LinkedIn: 
+  Twitter: https://x.com/FSPallottivzla
+  Facebook: https://www.facebook.com/p/Fundacion-San-Vicente-Pallotti-vzla-100069215535439/?paipv=0&eav=AfZd5VC0PCFlxPg2_3BOZHpJiG3hrKkOm8FGDtV4AqnoTGHPLiP0Q5jHDxnfbSNGDps&_rdr
   Slack:
 
 # build settings
