@@ -1,7 +1,7 @@
 ---
 layout: home
-title: VISIÓN
-landing-title: 'EL Pueblo de Dios'
+title: HOME
+landing-title: 'Fundación San Vicente Pallotti'
 description: null
 image: null
 author: null
