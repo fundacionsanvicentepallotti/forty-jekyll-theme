@@ -11,26 +11,24 @@ nav-menu: true
 	<div class="inner">
 		<header class="major"><h1>Quienes Somos.</h1></header>
 
-<!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+
 
 <div class="row">
-	<div class="6u 12u$(small)">
-	<h3>MISIÓN</h3>
-	<p>Reencender y propagar la Caridad entre todos los miembros del Pueblo de Dios, proclamando 
+<div class="6u 12u$(small)">
+<h3>MISIÓN</h3>
+<p>Reencender y propagar la Caridad entre todos los miembros del Pueblo de Dios, proclamando 
       el Evangelio, mediante palabra y obra, atendiendo a todos los necesitados de hambre espiritual y 
       corporal. Utilizando todos los recursos y herramientas posibles, desde el contacto personal hasta los medios electrónicos.</p>
-	</div>
-	<div class="6u$ 12u$(small)">
-	<h3>VISIÓN</h3>
-	<p>Alcanzar todos los lugares donde se encuentren personas en condicion vulnerable, movidos por la intención de reavivar la fe, la unión 
+</div>
+<div class="6u$ 12u$(small)">
+<h3>VISIÓN</h3>
+<p>Alcanzar todos los lugares donde se encuentren personas en condicion vulnerable, movidos por la intención de reavivar la fe, la unión 
       y la caridad entre todos los miembros del Pueblo de Dios, encaminado a ser una sola familia con un mismo ideal.</p>
-
-
+</div>
+</div>
  
 <!-- Break -->
-
+<div class="row">
 <div class="4u 12u$(medium)">
 <h3>NUTRICIÓN</h3>
 <p>¿En qué consiste?: En la entrega de alimentos no perecederos para familias en situación de riesgo, primordialmente con niños y con personas de tercera edad, que viven en la comunidad de El Carmen, Nueva Casarapa y La Villa Panamericana en Guarenas, estado Miranda.</p>
@@ -51,6 +49,10 @@ nav-menu: true
 <p>¿En qué consiste?: El seguimiento de Jesús es el centro de nuestra espiritualidad. Hablar de espiritualidad, en la perspectiva cristiana, no será otra cosa que hablar de la experiencia del Espíritu de Jesús de Nazareth, Apóstol del Eterno Padre.</p>
 </div>
 
-</div>
+<!-- Content -->
+<h2 id="content">Unión del Apostolado Católico</h2>
+<p>La Unión del Apostolado Católico es un grupo de Sacerdotes y Laicos con la misión de reavivar la fe, llevando a todo los a la unidad en Cristo a través del ejemplo de su Padre fundador San Vicente Pallotti.</p>
 
-</section></div>
+</div>
+</div>
+</section>
