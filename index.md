@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: 1er Cierre de Proyecto 2024
 landing-title: 'Fundación San Vicente Pallotti'
 description: null
 image: null
