@@ -3,7 +3,7 @@ layout: post
 title: Nutrición.
 description: Consiste en la entrega de alimentos a familias en situación de riesgo primordialmente a niños y con personas de tercera edad
 image: assets/images/pic11.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 
