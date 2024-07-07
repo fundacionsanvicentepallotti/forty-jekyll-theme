@@ -6,6 +6,15 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
+
+<section id="one">
+	<div class="inner">
+		<header class="major"><h1>Quienes Somos.</h1></header>
+
+<!-- Content -->
+<h2 id="content">Sample Content</h2>
+<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+
 <div class="row">
 	<div class="6u 12u$(small)">
 	<h3>MISIÓN</h3>
@@ -17,29 +26,31 @@ nav-menu: true
 	<h3>VISIÓN</h3>
 	<p>Alcanzar todos los lugares donde se encuentren personas en condicion vulnerable, movidos por la intención de reavivar la fe, la unión 
       y la caridad entre todos los miembros del Pueblo de Dios, encaminado a ser una sola familia con un mismo ideal.</p>
-</div>
+
 
  
 <!-- Break -->
-<div class="row">
+
 <div class="4u 12u$(medium)">
-	<h3>NUTRICIÓN</h3>
-	<p>¿En qué consiste?: En la entrega de alimentos no perecederos para familias en situación de riesgo, primordialmente con niños y con personas de tercera edad, que viven en la comunidad de El Carmen, Nueva Casarapa y La Villa Panamericana en Guarenas, estado Miranda.</p>
+<h3>NUTRICIÓN</h3>
+<p>¿En qué consiste?: En la entrega de alimentos no perecederos para familias en situación de riesgo, primordialmente con niños y con personas de tercera edad, que viven en la comunidad de El Carmen, Nueva Casarapa y La Villa Panamericana en Guarenas, estado Miranda.</p>
 </div>
 
 <div class="4u 12u$(medium)">
-	<h3>SALUD</h3>
-	<p>¿En qué consiste?: En la entrega de kit de medicinas que pueden contener alcohol, ácido fólico, acetaminofen, antialérgicos pediátricos, hipertensivos, antigripales, vitámina C, complejo vitáminico para niños y ancianos.</p>
+<h3>SALUD</h3>
+<p>¿En qué consiste?: En la entrega de kit de medicinas que pueden contener alcohol, ácido fólico, acetaminofen, antialérgicos pediátricos, hipertensivos, antigripales, vitámina C, complejo vitáminico para niños y ancianos.</p>
 </div>
 
 <div class="4u$ 12u$(medium)">
-	<h3>EVANGELIZACIÓN</h3>
-	<p>¿En qué consiste?:Tomar conciencia de ser enviados a nuestras comunidades a continuar el apostolado al que somos llamados para que cuanto antes haya un solo rebaño bajo un solo pastor.</p>
-	</div>
+<h3>EVANGELIZACIÓN</h3>
+<p>¿En qué consiste?:Tomar conciencia de ser enviados a nuestras comunidades a continuar el apostolado al que somos llamados para que cuanto antes haya un solo rebaño bajo un solo pastor.</p>
+</div>
 
  <div class="4u$ 12u$(medium)">
-	<h3>FORMACIÓN</h3>
-	<p>¿En qué consiste?: El seguimiento de Jesús es el centro de nuestra espiritualidad. Hablar de espiritualidad, en la perspectiva cristiana, no será otra cosa que hablar de la experiencia del Espíritu de Jesús de Nazareth, Apóstol del Eterno Padre.</p>
-	</div>
+<h3>FORMACIÓN</h3>
+<p>¿En qué consiste?: El seguimiento de Jesús es el centro de nuestra espiritualidad. Hablar de espiritualidad, en la perspectiva cristiana, no será otra cosa que hablar de la experiencia del Espíritu de Jesús de Nazareth, Apóstol del Eterno Padre.</p>
 </div>
-<hr class="major" />
+
+</div>
+
+</section></div>
