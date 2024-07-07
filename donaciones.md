@@ -1,3 +1,12 @@
+---
+layout: post
+title: Donaciones
+description: Donaciones FSVP
+image: assets/images/pic11.jpg
+nav-menu: true
+---
+
+
 # Donaciones
 ## Dirección
 Av. Las Aves con Av. Los Roques, Casa Iglesia Asunción de María, Urb Las Islas (Villa Panamericana). Guarenas, Edo. Miranda.
