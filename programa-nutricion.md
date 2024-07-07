@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nutrición.
-description: Consiste en la entrega de alimentos a familias en situación de riesgo primordialmente con niños y con personas de tercera edad
+description: Consiste en la entrega de alimentos a familias en situación de riesgo primordialmente a niños y con personas de tercera edad
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
@@ -12,7 +12,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Programa de Nutrición</h3>
-		<p></p>Consiste en la entrega de alimentos no perecederos para familias en situación de riesgo, primordialmente con niños y con personas de tercera edad, que viven en la comunidad de El Carmen, Nueva Casarapa y La Villa Panamericana en Guarenas, estado Miranda.</p>
+		<p>Consiste en la entrega de alimentos no perecederos para familias en situación de riesgo, primordialmente con niños y con personas de tercera edad, que viven en la comunidad de El Carmen, Nueva Casarapa y La Villa Panamericana en Guarenas, estado Miranda.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Magna odio tempus commodo</h3>
