@@ -17,7 +17,7 @@ nav-menu: true
 <!-------------dos------------->
 <div class="6u$ 12u$(small)">
   <h3>Datos Bancarios</h3>
-      <ul>
+      <ul class="alt">
       <li>Fundación San Vicente Pallotti</li>
       <li>RIF: J-50180608-0</li>
       <li>Cuenta Bancamiga</li>
@@ -26,3 +26,5 @@ nav-menu: true
   </div>
 <hr class="major">
 <!-- Break -->
+
+
