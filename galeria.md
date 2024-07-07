@@ -2,6 +2,7 @@
 layout: post
 title: Galeria
 description: multimedia
+image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
@@ -12,9 +13,6 @@ nav-menu: true
       <section id="one">
       	<div class="inner">
           
-      		<header class="major">
-            <h1>Galeria</h1>
-          </header>
       
       
       
