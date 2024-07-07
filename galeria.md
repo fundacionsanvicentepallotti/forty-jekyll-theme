@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Galeria
-description: Galeria
-
+description: multimedia
 nav-menu: true
 ---
-<h1>Galeria</h1>
 
 <!-- Main -->
 <div id="main" class="alt">
