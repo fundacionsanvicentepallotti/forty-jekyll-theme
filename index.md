@@ -5,7 +5,7 @@ landing-title: 'Fundación San Vicente Pallotti'
 description: null
 image: null
 author: null
-show_tile: false
+show_tile: true
 ---
 
 FUNDACIÓN SAN VICENTE PALLOTTI ES UNA INSTITUCIÓN DE AYUDA A LA COMUNIDAD MÁS NECESITADA, DONDE SE IMPARTE EL AMOR AL PRÓJIMO CON MORAL CRISTIANA Y CATÓLICA.
