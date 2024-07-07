@@ -5,9 +5,7 @@ description: Donaciones FSVP
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
-		<header class="major">
-			<h1>Donaciones</h1>
-		</header>
+<h1>Donaciones</h1>
 
 <div class="row">
 <!-------------uno------------->
