@@ -9,7 +9,7 @@ nav-menu: true
 # Donaciones
 ## Dirección
 <p>Av. Las Aves con Av. Los Roques, Casa Iglesia Asunción de María, Urb Las Islas (Villa Panamericana). Guarenas, Edo. Miranda.</p>
-# Telf: +58 412 905 98 17
+<h2>Telf: +58 412 905 98 17</h2>
 
 ## Datos Bancarios
 #### Fundación San Vicente Pallotti
