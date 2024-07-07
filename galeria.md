@@ -20,6 +20,6 @@ nav-menu: true
       
       
       
-        </div><!-- /inner-->
-</section><!-- /section -->
-</div><!-- /Main -->
+        </div><!--/inner -->
+</section><!--/section -->
+</div><!--/Main -->
