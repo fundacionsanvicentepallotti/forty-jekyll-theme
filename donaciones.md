@@ -5,8 +5,9 @@ description: Donaciones FSVP
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
-
-<h2>Donaciones</h2>
+		<header class="major">
+			<h1>Donaciones</h1>
+		</header>
 
 <div class="row">
 <!-------------uno------------->
@@ -25,4 +26,5 @@ nav-menu: true
       <li><h4>N° 0172-0194-86-1945023032</h4></li>
       </ul>
   </div>
+<hr class="major">
 <!-- Break -->
