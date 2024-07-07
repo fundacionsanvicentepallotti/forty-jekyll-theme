@@ -1,11 +1,11 @@
 ---
 layout: home
-title: FUNDACIÓN SAN VICENTE PALLOTTI ES UNA INSTITUCIÓN DE AYUDA A LA COMUNIDAD MÁS NECESITADA
-landing-title: 'Fundación San Vicente Pallotti'
+title: VISIÓN
+landing-title: 'EL Pueblo de Dios'
 description: null
 image: null
 author: null
 show_tile: true
 ---
 
-FUNDACIÓN SAN VICENTE PALLOTTI ES UNA INSTITUCIÓN DE AYUDA A LA COMUNIDAD MÁS NECESITADA, DONDE SE IMPARTE EL AMOR AL PRÓJIMO CON MORAL CRISTIANA Y CATÓLICA.
+Alcanzar todos los lugares donde se encuentren personas en condicion vulnerable, movidos por la intención de reavivar la fe, la unión y la caridad entre todos los miembros del Pueblo de Dios, encaminado a ser una sola familia con un mismo ideal.
