@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Fundación San Vicente Pallotti
+title: FSVP
 landing-title: 'Fundación San Vicente Pallotti'
 description: null
-image: null
+image: assets/images/banner.jpg
 author: null
 show_tile: true
 ---
