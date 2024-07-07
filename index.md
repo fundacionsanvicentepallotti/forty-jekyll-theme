@@ -1,7 +1,7 @@
 ---
 layout: home
 title: FSVP
-landing-title: 'Fundación<br> San Vicente Pallotti'
+landing-title: 'Fundación<br> <h1>San Vicente Pallotti</h1>'
 description: null
 image: assets/images/banner.jpg
 author: null
