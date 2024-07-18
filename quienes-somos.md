@@ -2,7 +2,7 @@
 layout: post
 title: Quienes Somos.
 description: Reencender y propagar la Caridad entre todos los miembros del Pueblo de Dios
-image: assets/images/pic11.jpg
+image: assets/images/nosotros.jpg
 nav-menu: true
 ---
 
